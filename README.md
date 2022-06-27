@@ -18,7 +18,7 @@ The study of these algorithms was carried out in the Python language and in the 
 
 The files "AG_1", "AG_2", "AG_3" and "AG_4" contain the different genetic algorithms that have been programmed. In turn, they contain the results obtained from each execution in the respective problems and under the different configurations.
 
-The definition of the problems is given through "def_limits", "obj_functions" and "lim_correct". The first one is in charge of defining the number of variables and their respective limits. In "obj_functions" we have defined the different objective functions for each problem and the last one is used to check that an individual is within the search region.
+The definition of the problems is given through "def_limites", "funciones_obj" and "lim_correctos". The first one is in charge of defining the number of variables and their respective limits. In "obj_functions" we have defined the different objective functions for each problem and the last one is used to check that an individual is within the search region.
 
-Finally, "Analisis_prob1", "Analisisis_prob2" and "Analisis_prob3" are the files in charge of the study of the results, through which the different results, graphs and Kruskal-Wallis tests are shown.
+Finally, "Analisis_prob1", "Analisis_prob2" and "Analisis_prob3" are the files in charge of the study of the results, through which the different results, graphs and Kruskal-Wallis tests are shown.
 
